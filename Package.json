@@ -1,0 +1,13 @@
+{
+  "name": "wizzybot-omega",
+  "version": "1.0.0",
+  "description": "A stealthy and enhanced WhatsApp AI bot powered by venom-bot.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "venom-bot": "^5.0.5",
+    "chalk": "^5.3.0"
+  }
+}
